@@ -1,0 +1,22 @@
+{
+    "name": "Chat-room",
+    "version": "1.0.0",
+    "description": "a chat room app by socket.io",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.3.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "node app.js"
+    },
+    "keywords": [
+        "imChat",
+        "socket",
+        "express",
+        "vue"
+    ],
+    "author": "@cleverqin",
+    "license": "MIT"
+}
